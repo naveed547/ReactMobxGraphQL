@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`InputSearchFilter InputSearchFilter component renders correctly 1`] = `
+<form
+  id="searchForm"
+  onSubmit={[Function]}
+>
+  <input
+    className="form-control"
+    name="search"
+    onChange={[Function]}
+    type="search"
+  />
+</form>
+`;

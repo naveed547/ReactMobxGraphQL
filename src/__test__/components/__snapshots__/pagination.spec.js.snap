@@ -1,0 +1,48 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`userRepoSearch userRepoSearch component renders correctly 1`] = `
+<ul
+  className="pagination justify-content-center mt-5"
+>
+  <li
+    className="page-item"
+  >
+    <a
+      className="page-link"
+      onClick={[Function]}
+    >
+      1
+    </a>
+  </li>
+  <li
+    className="active page-item"
+  >
+    <a
+      className="page-link"
+      onClick={[Function]}
+    >
+      2
+    </a>
+  </li>
+  <li
+    className="page-item"
+  >
+    <a
+      className="page-link"
+      onClick={[Function]}
+    >
+      3
+    </a>
+  </li>
+  <li
+    className="page-item"
+  >
+    <a
+      className="page-link"
+      onClick={[Function]}
+    >
+      4
+    </a>
+  </li>
+</ul>
+`;

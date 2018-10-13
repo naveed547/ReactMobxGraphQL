@@ -1,0 +1,1244 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`IssueTable IssueTable component renders correctly 1`] = `
+Array [
+  <ul
+    className="list-group list-group-flush"
+>
+    <li
+        className="list-group-item"
+    >
+        <div>
+            <i
+                className="fa fa-exclamation-circle text-danger"
+            />
+            <a
+                className="issue-title"
+                href="/issue/twbs/bootstrap/27338"
+                onClick={[Function]}
+            >
+                  
+                It is not possible to properly set $link-color variable in user-land config.
+            </a>
+        </div>
+        <span
+            className="issue-desc"
+        >
+            #
+            27338
+             
+            opened
+             
+            7 days ago
+             by 
+            dilame
+            <i
+                className="fa fa-comments pl-1"
+            />
+             
+            0
+        </span>
+        <span
+            className="pl-2"
+        >
+            Last updated at 
+            7 days ago
+        </span>
+    </li>
+    <li
+        className="list-group-item"
+    >
+        <div>
+            <i
+                className="fa fa-check text-success"
+            />
+            <a
+                className="issue-title"
+                href="/issue/twbs/bootstrap/27335"
+                onClick={[Function]}
+            >
+                  
+                Navbar brand (logo) and 2 buttons not showing on safari &lt; 9
+            </a>
+        </div>
+        <span
+            className="issue-desc"
+        >
+            #
+            27335
+             
+            closed
+             
+            7 days ago
+             by 
+            moatasem1
+            <i
+                className="fa fa-comments pl-1"
+            />
+             
+            1
+        </span>
+        <span
+            className="pl-2"
+        >
+            Last updated at 
+            7 days ago
+        </span>
+    </li>
+    <li
+        className="list-group-item"
+    >
+        <div>
+            <i
+                className="fa fa-exclamation-circle text-danger"
+            />
+            <a
+                className="issue-title"
+                href="/issue/twbs/bootstrap/27333"
+                onClick={[Function]}
+            >
+                  
+                Padding added when modal is available
+            </a>
+        </div>
+        <span
+            className="issue-desc"
+        >
+            #
+            27333
+             
+            opened
+             
+            8 days ago
+             by 
+            TechnicalSuwako
+            <i
+                className="fa fa-comments pl-1"
+            />
+             
+            0
+        </span>
+        <span
+            className="pl-2"
+        >
+            Last updated at 
+            8 days ago
+        </span>
+    </li>
+    <li
+        className="list-group-item"
+    >
+        <div>
+            <i
+                className="fa fa-exclamation-circle text-danger"
+            />
+            <a
+                className="issue-title"
+                href="/issue/twbs/bootstrap/27332"
+                onClick={[Function]}
+            >
+                  
+                Gray is tinted blue
+            </a>
+        </div>
+        <span
+            className="issue-desc"
+        >
+            #
+            27332
+             
+            opened
+             
+            7 days ago
+             by 
+            Illiou
+            <i
+                className="fa fa-comments pl-1"
+            />
+             
+            5
+        </span>
+        <span
+            className="pl-2"
+        >
+            Last updated at 
+            7 days ago
+        </span>
+    </li>
+    <li
+        className="list-group-item"
+    >
+        <div>
+            <i
+                className="fa fa-exclamation-circle text-danger"
+            />
+            <a
+                className="issue-title"
+                href="/issue/twbs/bootstrap/27330"
+                onClick={[Function]}
+            >
+                  
+                [v3] navbar-fixed-* don't get right padding on modal open
+            </a>
+        </div>
+        <span
+            className="issue-desc"
+        >
+            #
+            27330
+             
+            opened
+             
+            8 days ago
+             by 
+            iamandrewluca
+            <i
+                className="fa fa-comments pl-1"
+            />
+             
+            0
+        </span>
+        <span
+            className="pl-2"
+        >
+            Last updated at 
+            8 days ago
+        </span>
+    </li>
+    <li
+        className="list-group-item"
+    >
+        <div>
+            <i
+                className="fa fa-check text-success"
+            />
+            <a
+                className="issue-title"
+                href="/issue/twbs/bootstrap/27328"
+                onClick={[Function]}
+            >
+                  
+                Dropdown doesn't work outside of navbar.. 
+            </a>
+        </div>
+        <span
+            className="issue-desc"
+        >
+            #
+            27328
+             
+            closed
+             
+            8 days ago
+             by 
+            Gowthami2030
+            <i
+                className="fa fa-comments pl-1"
+            />
+             
+            0
+        </span>
+        <span
+            className="pl-2"
+        >
+            Last updated at 
+            8 days ago
+        </span>
+    </li>
+    <li
+        className="list-group-item"
+    >
+        <div>
+            <i
+                className="fa fa-exclamation-circle text-danger"
+            />
+            <a
+                className="issue-title"
+                href="/issue/twbs/bootstrap/27327"
+                onClick={[Function]}
+            >
+                  
+                Form input does not inherit font-weight
+            </a>
+        </div>
+        <span
+            className="issue-desc"
+        >
+            #
+            27327
+             
+            opened
+             
+            8 days ago
+             by 
+            brnrd87
+            <i
+                className="fa fa-comments pl-1"
+            />
+             
+            1
+        </span>
+        <span
+            className="pl-2"
+        >
+            Last updated at 
+            8 days ago
+        </span>
+    </li>
+    <li
+        className="list-group-item"
+    >
+        <div>
+            <i
+                className="fa fa-exclamation-circle text-danger"
+            />
+            <a
+                className="issue-title"
+                href="/issue/twbs/bootstrap/27326"
+                onClick={[Function]}
+            >
+                  
+                Cannot set property 'emulateTransitionEnd' of undefined
+            </a>
+        </div>
+        <span
+            className="issue-desc"
+        >
+            #
+            27326
+             
+            opened
+             
+            9 days ago
+             by 
+            miracle0403
+            <i
+                className="fa fa-comments pl-1"
+            />
+             
+            1
+        </span>
+        <span
+            className="pl-2"
+        >
+            Last updated at 
+            9 days ago
+        </span>
+    </li>
+    <li
+        className="list-group-item"
+    >
+        <div>
+            <i
+                className="fa fa-exclamation-circle text-danger"
+            />
+            <a
+                className="issue-title"
+                href="/issue/twbs/bootstrap/27320"
+                onClick={[Function]}
+            >
+                  
+                Adapt our npm scripts for Netlify previews
+            </a>
+        </div>
+        <span
+            className="issue-desc"
+        >
+            #
+            27320
+             
+            opened
+             
+            9 days ago
+             by 
+            XhmikosR
+            <i
+                className="fa fa-comments pl-1"
+            />
+             
+            0
+        </span>
+        <span
+            className="pl-2"
+        >
+            Last updated at 
+            9 days ago
+        </span>
+    </li>
+    <li
+        className="list-group-item"
+    >
+        <div>
+            <i
+                className="fa fa-check text-success"
+            />
+            <a
+                className="issue-title"
+                href="/issue/twbs/bootstrap/27319"
+                onClick={[Function]}
+            >
+                  
+                textarea with class="input-group-sm" or "input-group-lg" html attrib row="5" in 4.1.3
+            </a>
+        </div>
+        <span
+            className="issue-desc"
+        >
+            #
+            27319
+             
+            closed
+             
+            7 days ago
+             by 
+            db585
+            <i
+                className="fa fa-comments pl-1"
+            />
+             
+            2
+        </span>
+        <span
+            className="pl-2"
+        >
+            Last updated at 
+            7 days ago
+        </span>
+    </li>
+    <li
+        className="list-group-item"
+    >
+        <div>
+            <i
+                className="fa fa-exclamation-circle text-danger"
+            />
+            <a
+                className="issue-title"
+                href="/issue/twbs/bootstrap/27317"
+                onClick={[Function]}
+            >
+                  
+                Popover not triggered on long press on a button in Firefox mobile
+            </a>
+        </div>
+        <span
+            className="issue-desc"
+        >
+            #
+            27317
+             
+            opened
+             
+            9 days ago
+             by 
+            curtisy1
+            <i
+                className="fa fa-comments pl-1"
+            />
+             
+            9
+        </span>
+        <span
+            className="pl-2"
+        >
+            Last updated at 
+            9 days ago
+        </span>
+    </li>
+    <li
+        className="list-group-item"
+    >
+        <div>
+            <i
+                className="fa fa-check text-success"
+            />
+            <a
+                className="issue-title"
+                href="/issue/twbs/bootstrap/27316"
+                onClick={[Function]}
+            >
+                  
+                Form validation - border color change not working in Chrome and Edge
+            </a>
+        </div>
+        <span
+            className="issue-desc"
+        >
+            #
+            27316
+             
+            closed
+             
+            9 days ago
+             by 
+            Petrhol
+            <i
+                className="fa fa-comments pl-1"
+            />
+             
+            1
+        </span>
+        <span
+            className="pl-2"
+        >
+            Last updated at 
+            9 days ago
+        </span>
+    </li>
+    <li
+        className="list-group-item"
+    >
+        <div>
+            <i
+                className="fa fa-check text-success"
+            />
+            <a
+                className="issue-title"
+                href="/issue/twbs/bootstrap/27315"
+                onClick={[Function]}
+            >
+                  
+                display datepicker in list-group-item
+            </a>
+        </div>
+        <span
+            className="issue-desc"
+        >
+            #
+            27315
+             
+            closed
+             
+            9 days ago
+             by 
+            Mand
+            <i
+                className="fa fa-comments pl-1"
+            />
+             
+            1
+        </span>
+        <span
+            className="pl-2"
+        >
+            Last updated at 
+            9 days ago
+        </span>
+    </li>
+    <li
+        className="list-group-item"
+    >
+        <div>
+            <i
+                className="fa fa-exclamation-circle text-danger"
+            />
+            <a
+                className="issue-title"
+                href="/issue/twbs/bootstrap/27312"
+                onClick={[Function]}
+            >
+                  
+                How to make visible border lines of table header with z-index? (v.4) 
+            </a>
+        </div>
+        <span
+            className="issue-desc"
+        >
+            #
+            27312
+             
+            opened
+             
+            9 days ago
+             by 
+            MikaelBox
+            <i
+                className="fa fa-comments pl-1"
+            />
+             
+            0
+        </span>
+        <span
+            className="pl-2"
+        >
+            Last updated at 
+            9 days ago
+        </span>
+    </li>
+    <li
+        className="list-group-item"
+    >
+        <div>
+            <i
+                className="fa fa-exclamation-circle text-danger"
+            />
+            <a
+                className="issue-title"
+                href="/issue/twbs/bootstrap/27311"
+                onClick={[Function]}
+            >
+                  
+                Shouldn't nested tables get a background color of $table-bg instead of $body-bg?
+            </a>
+        </div>
+        <span
+            className="issue-desc"
+        >
+            #
+            27311
+             
+            opened
+             
+            9 days ago
+             by 
+            johnaau
+            <i
+                className="fa fa-comments pl-1"
+            />
+             
+            3
+        </span>
+        <span
+            className="pl-2"
+        >
+            Last updated at 
+            9 days ago
+        </span>
+    </li>
+    <li
+        className="list-group-item"
+    >
+        <div>
+            <i
+                className="fa fa-check text-success"
+            />
+            <a
+                className="issue-title"
+                href="/issue/twbs/bootstrap/27307"
+                onClick={[Function]}
+            >
+                  
+                Problem with tables and display utilities 
+            </a>
+        </div>
+        <span
+            className="issue-desc"
+        >
+            #
+            27307
+             
+            closed
+             
+            10 days ago
+             by 
+            AlessandroVecchi
+            <i
+                className="fa fa-comments pl-1"
+            />
+             
+            3
+        </span>
+        <span
+            className="pl-2"
+        >
+            Last updated at 
+            10 days ago
+        </span>
+    </li>
+    <li
+        className="list-group-item"
+    >
+        <div>
+            <i
+                className="fa fa-check text-success"
+            />
+            <a
+                className="issue-title"
+                href="/issue/twbs/bootstrap/27305"
+                onClick={[Function]}
+            >
+                  
+                disqus component not rendering with Bootstrap v4.1.3 WITH JSF template, it works with Bootstrap v3.3.7 WITH JSF template
+            </a>
+        </div>
+        <span
+            className="issue-desc"
+        >
+            #
+            27305
+             
+            closed
+             
+            8 days ago
+             by 
+            mswdev1823
+            <i
+                className="fa fa-comments pl-1"
+            />
+             
+            8
+        </span>
+        <span
+            className="pl-2"
+        >
+            Last updated at 
+            8 days ago
+        </span>
+    </li>
+    <li
+        className="list-group-item"
+    >
+        <div>
+            <i
+                className="fa fa-check text-success"
+            />
+            <a
+                className="issue-title"
+                href="/issue/twbs/bootstrap/27303"
+                onClick={[Function]}
+            >
+                  
+                4.1.3 + Latest codes and changes + Example Pages + NavBar + DropDown
+            </a>
+        </div>
+        <span
+            className="issue-desc"
+        >
+            #
+            27303
+             
+            closed
+             
+            10 days ago
+             by 
+            PerseusTheGreat
+            <i
+                className="fa fa-comments pl-1"
+            />
+             
+            1
+        </span>
+        <span
+            className="pl-2"
+        >
+            Last updated at 
+            10 days ago
+        </span>
+    </li>
+    <li
+        className="list-group-item"
+    >
+        <div>
+            <i
+                className="fa fa-check text-success"
+            />
+            <a
+                className="issue-title"
+                href="/issue/twbs/bootstrap/27302"
+                onClick={[Function]}
+            >
+                  
+                Google audit - vulnerability detected
+            </a>
+        </div>
+        <span
+            className="issue-desc"
+        >
+            #
+            27302
+             
+            closed
+             
+            11 days ago
+             by 
+            GlauberF
+            <i
+                className="fa fa-comments pl-1"
+            />
+             
+            1
+        </span>
+        <span
+            className="pl-2"
+        >
+            Last updated at 
+            11 days ago
+        </span>
+    </li>
+    <li
+        className="list-group-item"
+    >
+        <div>
+            <i
+                className="fa fa-check text-success"
+            />
+            <a
+                className="issue-title"
+                href="/issue/twbs/bootstrap/27301"
+                onClick={[Function]}
+            >
+                  
+                Add license headers in js/dist files
+            </a>
+        </div>
+        <span
+            className="issue-desc"
+        >
+            #
+            27301
+             
+            closed
+             
+            9 days ago
+             by 
+            XhmikosR
+            <i
+                className="fa fa-comments pl-1"
+            />
+             
+            0
+        </span>
+        <span
+            className="pl-2"
+        >
+            Last updated at 
+            9 days ago
+        </span>
+    </li>
+    <li
+        className="list-group-item"
+    >
+        <div>
+            <i
+                className="fa fa-check text-success"
+            />
+            <a
+                className="issue-title"
+                href="/issue/twbs/bootstrap/27300"
+                onClick={[Function]}
+            >
+                  
+                VM976 bootstrap.min.js:formatted:96 Uncaught TypeError: Cannot read property 'fn' of undefined     at VM976 bootstrap.min.js:formatted:96     at VM976 bootstrap.min.js:formatted:106     at VM976 bootstrap.min.js:formatted:7     at VM976 bootstrap.min.js:formatted:8
+            </a>
+        </div>
+        <span
+            className="issue-desc"
+        >
+            #
+            27300
+             
+            closed
+             
+            11 days ago
+             by 
+            vaishnavkishan
+            <i
+                className="fa fa-comments pl-1"
+            />
+             
+            2
+        </span>
+        <span
+            className="pl-2"
+        >
+            Last updated at 
+            11 days ago
+        </span>
+    </li>
+    <li
+        className="list-group-item"
+    >
+        <div>
+            <i
+                className="fa fa-check text-success"
+            />
+            <a
+                className="issue-title"
+                href="/issue/twbs/bootstrap/27299"
+                onClick={[Function]}
+            >
+                  
+                 aos.js:162:2
+            </a>
+        </div>
+        <span
+            className="issue-desc"
+        >
+            #
+            27299
+             
+            closed
+             
+            12 days ago
+             by 
+            etcshadow1
+            <i
+                className="fa fa-comments pl-1"
+            />
+             
+            1
+        </span>
+        <span
+            className="pl-2"
+        >
+            Last updated at 
+            12 days ago
+        </span>
+    </li>
+    <li
+        className="list-group-item"
+    >
+        <div>
+            <i
+                className="fa fa-check text-success"
+            />
+            <a
+                className="issue-title"
+                href="/issue/twbs/bootstrap/27298"
+                onClick={[Function]}
+            >
+                  
+                .accordion not explicitly mentioned in the docs
+            </a>
+        </div>
+        <span
+            className="issue-desc"
+        >
+            #
+            27298
+             
+            closed
+             
+            10 days ago
+             by 
+            Herst
+            <i
+                className="fa fa-comments pl-1"
+            />
+             
+            0
+        </span>
+        <span
+            className="pl-2"
+        >
+            Last updated at 
+            10 days ago
+        </span>
+    </li>
+    <li
+        className="list-group-item"
+    >
+        <div>
+            <i
+                className="fa fa-exclamation-circle text-danger"
+            />
+            <a
+                className="issue-title"
+                href="/issue/twbs/bootstrap/27296"
+                onClick={[Function]}
+            >
+                  
+                Create a scroll-able utility class
+            </a>
+        </div>
+        <span
+            className="issue-desc"
+        >
+            #
+            27296
+             
+            opened
+             
+            12 days ago
+             by 
+            sts-ryan-holton
+            <i
+                className="fa fa-comments pl-1"
+            />
+             
+            0
+        </span>
+        <span
+            className="pl-2"
+        >
+            Last updated at 
+            12 days ago
+        </span>
+    </li>
+    <li
+        className="list-group-item"
+    >
+        <div>
+            <i
+                className="fa fa-check text-success"
+            />
+            <a
+                className="issue-title"
+                href="/issue/twbs/bootstrap/27295"
+                onClick={[Function]}
+            >
+                  
+                table Contextual classes documentation is wronge
+            </a>
+        </div>
+        <span
+            className="issue-desc"
+        >
+            #
+            27295
+             
+            closed
+             
+            12 days ago
+             by 
+            mahdyaslami
+            <i
+                className="fa fa-comments pl-1"
+            />
+             
+            1
+        </span>
+        <span
+            className="pl-2"
+        >
+            Last updated at 
+            12 days ago
+        </span>
+    </li>
+    <li
+        className="list-group-item"
+    >
+        <div>
+            <i
+                className="fa fa-check text-success"
+            />
+            <a
+                className="issue-title"
+                href="/issue/twbs/bootstrap/27294"
+                onClick={[Function]}
+            >
+                  
+                Rename close icon class to btn-close
+            </a>
+        </div>
+        <span
+            className="issue-desc"
+        >
+            #
+            27294
+             
+            closed
+             
+            12 days ago
+             by 
+            alecpl
+            <i
+                className="fa fa-comments pl-1"
+            />
+             
+            3
+        </span>
+        <span
+            className="pl-2"
+        >
+            Last updated at 
+            11 days ago
+        </span>
+    </li>
+    <li
+        className="list-group-item"
+    >
+        <div>
+            <i
+                className="fa fa-exclamation-circle text-danger"
+            />
+            <a
+                className="issue-title"
+                href="/issue/twbs/bootstrap/27293"
+                onClick={[Function]}
+            >
+                  
+                Card Columns - hover fails with scrollable card content
+            </a>
+        </div>
+        <span
+            className="issue-desc"
+        >
+            #
+            27293
+             
+            opened
+             
+            7 days ago
+             by 
+            sakthivelsekar33
+            <i
+                className="fa fa-comments pl-1"
+            />
+             
+            6
+        </span>
+        <span
+            className="pl-2"
+        >
+            Last updated at 
+            7 days ago
+        </span>
+    </li>
+    <li
+        className="list-group-item"
+    >
+        <div>
+            <i
+                className="fa fa-check text-success"
+            />
+            <a
+                className="issue-title"
+                href="/issue/twbs/bootstrap/27292"
+                onClick={[Function]}
+            >
+                  
+                Why isn't Bootstrap using placeholder selector to eliminate unneeded classes and naming collision?
+            </a>
+        </div>
+        <span
+            className="issue-desc"
+        >
+            #
+            27292
+             
+            closed
+             
+            11 days ago
+             by 
+            YamenSharaf
+            <i
+                className="fa fa-comments pl-1"
+            />
+             
+            4
+        </span>
+        <span
+            className="pl-2"
+        >
+            Last updated at 
+            11 days ago
+        </span>
+    </li>
+    <li
+        className="list-group-item"
+    >
+        <div>
+            <i
+                className="fa fa-exclamation-circle text-danger"
+            />
+            <a
+                className="issue-title"
+                href="/issue/twbs/bootstrap/27291"
+                onClick={[Function]}
+            >
+                  
+                Horizontal list group feature suggestion
+            </a>
+        </div>
+        <span
+            className="issue-desc"
+        >
+            #
+            27291
+             
+            opened
+             
+            13 days ago
+             by 
+            sts-ryan-holton
+            <i
+                className="fa fa-comments pl-1"
+            />
+             
+            0
+        </span>
+        <span
+            className="pl-2"
+        >
+            Last updated at 
+            13 days ago
+        </span>
+    </li>
+    <li
+        className="list-group-item"
+    >
+        <div>
+            <i
+                className="fa fa-check text-success"
+            />
+            <a
+                className="issue-title"
+                href="/issue/twbs/bootstrap/27287"
+                onClick={[Function]}
+            >
+                  
+                spacing classes for print media
+            </a>
+        </div>
+        <span
+            className="issue-desc"
+        >
+            #
+            27287
+             
+            closed
+             
+            13 days ago
+             by 
+            achtan
+            <i
+                className="fa fa-comments pl-1"
+            />
+             
+            2
+        </span>
+        <span
+            className="pl-2"
+        >
+            Last updated at 
+            13 days ago
+        </span>
+    </li>
+</ul>,
+  <ul
+    className="pagination justify-content-center mt-5"
+>
+    <li
+        className="page-item"
+    >
+        <a
+            className="page-link"
+            onClick={[Function]}
+        >
+            1
+        </a>
+    </li>
+    <li
+        className="active page-item"
+    >
+        <a
+            className="page-link"
+            onClick={[Function]}
+        >
+            2
+        </a>
+    </li>
+    <li
+        className="page-item"
+    >
+        <a
+            className="page-link"
+            onClick={[Function]}
+        >
+            3
+        </a>
+    </li>
+</ul>,
+]
+`;

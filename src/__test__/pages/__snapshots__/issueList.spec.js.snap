@@ -1,0 +1,542 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`IssueList IssueList component renders correctly 1`] = `
+Array [
+  <h2
+    className="text-center my-5"
+>
+    Issues List 
+    <span
+        className="my-5 text-center"
+    >
+        (17734)
+         
+    </span>
+</h2>,
+  "User Name: ",
+  <span
+    className="user-name"
+>
+    twbs
+</span>,
+  " ",
+  <br />,
+  "Repo Name: ",
+  <span
+    className="repo-name"
+>
+    bootstrap
+</span>,
+  " ",
+  <br />,
+  <div
+    className="card"
+>
+    <div
+        className="card-header row mx-0"
+    >
+        <div
+            className="col-sm-4"
+        >
+            <form
+                id="searchForm"
+                onSubmit={[Function]}
+            >
+                <input
+                    className="form-control"
+                    name="search"
+                    onChange={[Function]}
+                    type="search"
+                />
+            </form>
+        </div>
+        <div
+            className="col-sm-8"
+        >
+            <div
+                className="topFilter row"
+            >
+                <div
+                    className="col text-center"
+                >
+                    <button
+                        className="btn btn-secondary"
+                        onClick={[Function]}
+                        type="button"
+                    >
+                        <i
+                            className="fa fa-exclamation-circle text-danger"
+                        />
+                         
+                        366
+                         Open
+                    </button>
+                    <button
+                        className="btn btn-outline-secondary ml-1"
+                        onClick={[Function]}
+                        type="button"
+                    >
+                        <i
+                            className="fa fa-check text-success"
+                        />
+                         
+                        17368
+                         Closed
+                    </button>
+                </div>
+                <div
+                    className="col text-right"
+                >
+                    <select
+                        className="form-control"
+                        onChange={[Function]}
+                        value="Oldest"
+                    >
+                        <option>
+                            Newest
+                        </option>
+                        <option>
+                            Oldest
+                        </option>
+                        <option>
+                            Most Commented
+                        </option>
+                        <option>
+                            Least Commented
+                        </option>
+                    </select>
+                </div>
+            </div>
+        </div>
+    </div>
+    <ul
+        className="list-group list-group-flush"
+    >
+        <li
+            className="list-group-item"
+        >
+            <div>
+                <i
+                    className="fa fa-exclamation-circle text-danger"
+                />
+                <a
+                    className="issue-title"
+                    href="/issue/twbs/bootstrap/27291"
+                    onClick={[Function]}
+                >
+                      
+                    Horizontal list group feature suggestion
+                </a>
+            </div>
+            <span
+                className="issue-desc"
+            >
+                #
+                27291
+                 
+                opened
+                 
+                13 days ago
+                 by 
+                sts-ryan-holton
+                <i
+                    className="fa fa-comments pl-1"
+                />
+                 
+                0
+            </span>
+            <span
+                className="pl-2"
+            >
+                Last updated at 
+                13 days ago
+            </span>
+        </li>
+        <li
+            className="list-group-item"
+        >
+            <div>
+                <i
+                    className="fa fa-exclamation-circle text-danger"
+                />
+                <a
+                    className="issue-title"
+                    href="/issue/twbs/bootstrap/27296"
+                    onClick={[Function]}
+                >
+                      
+                    Create a scroll-able utility class
+                </a>
+            </div>
+            <span
+                className="issue-desc"
+            >
+                #
+                27296
+                 
+                opened
+                 
+                12 days ago
+                 by 
+                sts-ryan-holton
+                <i
+                    className="fa fa-comments pl-1"
+                />
+                 
+                0
+            </span>
+            <span
+                className="pl-2"
+            >
+                Last updated at 
+                12 days ago
+            </span>
+        </li>
+        <li
+            className="list-group-item"
+        >
+            <div>
+                <i
+                    className="fa fa-exclamation-circle text-danger"
+                />
+                <a
+                    className="issue-title"
+                    href="/issue/twbs/bootstrap/27317"
+                    onClick={[Function]}
+                >
+                      
+                    Popover not triggered on long press on a button in Firefox mobile
+                </a>
+            </div>
+            <span
+                className="issue-desc"
+            >
+                #
+                27317
+                 
+                opened
+                 
+                9 days ago
+                 by 
+                curtisy1
+                <i
+                    className="fa fa-comments pl-1"
+                />
+                 
+                9
+            </span>
+            <span
+                className="pl-2"
+            >
+                Last updated at 
+                9 days ago
+            </span>
+        </li>
+        <li
+            className="list-group-item"
+        >
+            <div>
+                <i
+                    className="fa fa-exclamation-circle text-danger"
+                />
+                <a
+                    className="issue-title"
+                    href="/issue/twbs/bootstrap/27312"
+                    onClick={[Function]}
+                >
+                      
+                    How to make visible border lines of table header with z-index? (v.4) 
+                </a>
+            </div>
+            <span
+                className="issue-desc"
+            >
+                #
+                27312
+                 
+                opened
+                 
+                9 days ago
+                 by 
+                MikaelBox
+                <i
+                    className="fa fa-comments pl-1"
+                />
+                 
+                0
+            </span>
+            <span
+                className="pl-2"
+            >
+                Last updated at 
+                9 days ago
+            </span>
+        </li>
+        <li
+            className="list-group-item"
+        >
+            <div>
+                <i
+                    className="fa fa-exclamation-circle text-danger"
+                />
+                <a
+                    className="issue-title"
+                    href="/issue/twbs/bootstrap/27320"
+                    onClick={[Function]}
+                >
+                      
+                    Adapt our npm scripts for Netlify previews
+                </a>
+            </div>
+            <span
+                className="issue-desc"
+            >
+                #
+                27320
+                 
+                opened
+                 
+                9 days ago
+                 by 
+                XhmikosR
+                <i
+                    className="fa fa-comments pl-1"
+                />
+                 
+                0
+            </span>
+            <span
+                className="pl-2"
+            >
+                Last updated at 
+                9 days ago
+            </span>
+        </li>
+        <li
+            className="list-group-item"
+        >
+            <div>
+                <i
+                    className="fa fa-exclamation-circle text-danger"
+                />
+                <a
+                    className="issue-title"
+                    href="/issue/twbs/bootstrap/27311"
+                    onClick={[Function]}
+                >
+                      
+                    Shouldn't nested tables get a background color of $table-bg instead of $body-bg?
+                </a>
+            </div>
+            <span
+                className="issue-desc"
+            >
+                #
+                27311
+                 
+                opened
+                 
+                9 days ago
+                 by 
+                johnaau
+                <i
+                    className="fa fa-comments pl-1"
+                />
+                 
+                3
+            </span>
+            <span
+                className="pl-2"
+            >
+                Last updated at 
+                9 days ago
+            </span>
+        </li>
+        <li
+            className="list-group-item"
+        >
+            <div>
+                <i
+                    className="fa fa-exclamation-circle text-danger"
+                />
+                <a
+                    className="issue-title"
+                    href="/issue/twbs/bootstrap/27326"
+                    onClick={[Function]}
+                >
+                      
+                    Cannot set property 'emulateTransitionEnd' of undefined
+                </a>
+            </div>
+            <span
+                className="issue-desc"
+            >
+                #
+                27326
+                 
+                opened
+                 
+                9 days ago
+                 by 
+                miracle0403
+                <i
+                    className="fa fa-comments pl-1"
+                />
+                 
+                1
+            </span>
+            <span
+                className="pl-2"
+            >
+                Last updated at 
+                9 days ago
+            </span>
+        </li>
+        <li
+            className="list-group-item"
+        >
+            <div>
+                <i
+                    className="fa fa-exclamation-circle text-danger"
+                />
+                <a
+                    className="issue-title"
+                    href="/issue/twbs/bootstrap/27327"
+                    onClick={[Function]}
+                >
+                      
+                    Form input does not inherit font-weight
+                </a>
+            </div>
+            <span
+                className="issue-desc"
+            >
+                #
+                27327
+                 
+                opened
+                 
+                8 days ago
+                 by 
+                brnrd87
+                <i
+                    className="fa fa-comments pl-1"
+                />
+                 
+                1
+            </span>
+            <span
+                className="pl-2"
+            >
+                Last updated at 
+                8 days ago
+            </span>
+        </li>
+        <li
+            className="list-group-item"
+        >
+            <div>
+                <i
+                    className="fa fa-exclamation-circle text-danger"
+                />
+                <a
+                    className="issue-title"
+                    href="/issue/twbs/bootstrap/27333"
+                    onClick={[Function]}
+                >
+                      
+                    Padding added when modal is available
+                </a>
+            </div>
+            <span
+                className="issue-desc"
+            >
+                #
+                27333
+                 
+                opened
+                 
+                8 days ago
+                 by 
+                TechnicalSuwako
+                <i
+                    className="fa fa-comments pl-1"
+                />
+                 
+                0
+            </span>
+            <span
+                className="pl-2"
+            >
+                Last updated at 
+                8 days ago
+            </span>
+        </li>
+        <li
+            className="list-group-item"
+        >
+            <div>
+                <i
+                    className="fa fa-exclamation-circle text-danger"
+                />
+                <a
+                    className="issue-title"
+                    href="/issue/twbs/bootstrap/27330"
+                    onClick={[Function]}
+                >
+                      
+                    [v3] navbar-fixed-* don't get right padding on modal open
+                </a>
+            </div>
+            <span
+                className="issue-desc"
+            >
+                #
+                27330
+                 
+                opened
+                 
+                8 days ago
+                 by 
+                iamandrewluca
+                <i
+                    className="fa fa-comments pl-1"
+                />
+                 
+                0
+            </span>
+            <span
+                className="pl-2"
+            >
+                Last updated at 
+                8 days ago
+            </span>
+        </li>
+    </ul>
+    <ul
+        className="pagination justify-content-center mt-5"
+    >
+        <li
+            className="active page-item"
+        >
+            <a
+                className="page-link"
+                onClick={[Function]}
+            >
+                1
+            </a>
+        </li>
+        <li
+            className="page-item"
+        >
+            <a
+                className="page-link"
+                onClick={[Function]}
+            >
+                2
+            </a>
+        </li>
+    </ul>
+</div>,
+]
+`;

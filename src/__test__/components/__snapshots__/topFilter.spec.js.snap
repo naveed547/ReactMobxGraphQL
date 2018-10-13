@@ -1,0 +1,58 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TopFilter TopFilter component renders correctly 1`] = `
+<div
+  className="topFilter row"
+>
+  <div
+    className="col text-center"
+  >
+    <button
+      className="btn btn-secondary"
+      onClick={[Function]}
+      type="button"
+    >
+      <i
+        className="fa fa-exclamation-circle text-danger"
+      />
+       
+      1000
+       Open
+    </button>
+    <button
+      className="btn btn-outline-secondary ml-1"
+      onClick={[Function]}
+      type="button"
+    >
+      <i
+        className="fa fa-check text-success"
+      />
+       
+      500
+       Closed
+    </button>
+  </div>
+  <div
+    className="col text-right"
+  >
+    <select
+      className="form-control"
+      onChange={[Function]}
+      value="Oldest"
+    >
+      <option>
+        Newest
+      </option>
+      <option>
+        Oldest
+      </option>
+      <option>
+        Most Commented
+      </option>
+      <option>
+        Least Commented
+      </option>
+    </select>
+  </div>
+</div>
+`;
